@@ -6,7 +6,11 @@ Currently, pursuing a Master in Information and Electrical Engineering. An aspir
 Skills: Python / SQL / Machine learning / Data Visualization / Pandas, Numpy / EDA / Flask / HTML / CSS
 
 🔭 I’m currently working on Credit-Card Fraud Detection Dataset
+
 🌱 I’m currently learning Deep Learning
+
 👯 I’m looking to collaborate on any project related to Data Science, Data Analysis and Machine Learning and Image Analysis
+
 🤔 I’m looking for help with Data Analysis with Tableau
+
 ⚡ Fun fact: Data is Everywhere
