@@ -1,4 +1,6 @@
 Aspiring Data Scientist
+
+
 Currently, pursuing a Master in Information and Electrical Engineering. An aspiring Data Scientist with an interest in analyzing large datasets with statistical techniques and data analysis. I really enjoy learning new things related to Data Science, currently learning to get critical insights from the data using Business Intelligence tools such as Power BI and Tableau
 
 Skills: Python / SQL / Machine learning / Data Visualization / Pandas, Numpy / EDA / Flask / HTML / CSS
