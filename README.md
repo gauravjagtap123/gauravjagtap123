@@ -1,11 +1,11 @@
-Aspiring Data Scientist
+Aspiring Engineer
 
 
-Currently, pursuing a Master in Information and Electrical Engineering. An aspiring Data Scientist with an interest in analyzing large datasets with statistical techniques and data analysis. I really enjoy learning new things related to Data Science, currently learning to get critical insights from the data using Business Intelligence tools such as Power BI and Tableau
+Currently, pursuing a Master in Information and Electrical Engineering. An aspiring Engineer with an interest in Data Science,Machine Learning & Deep Learning. I really enjoy learning new things related to Machine Learning & Deep Learning(object detection).
 
-Skills: Python / SQL / Machine learning / Data Visualization / Pandas, Numpy / EDA / Flask / HTML / CSS
+Skills: Python / Data Science / Machine learning / Deep Learning /Data Visualization / Pandas, Numpy / EDA / Flask / CNN
 
-🔭 I’m currently working on Credit-Card Fraud Detection Dataset
+🔭 I’m currently working on Object Detection(with Mask % without Mask detection)
 
 🌱 I’m currently learning Deep Learning
 
